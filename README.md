@@ -3,5 +3,5 @@
 :computer: ** Ingeniero de sistemas**
 
 ### :zap: actividad reciente
-<!-- START_SECTION:ACTIVITY -->
-<!-- END_SECTION:ACTIVITY -->
+<!--RECENT__ACTIVITY:start-->
+<!--RECENT__ACTIVITY:last_update-->
